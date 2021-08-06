@@ -12,7 +12,7 @@ function validate_password() {
                 
                 sudo yum install nano
                 sudo yum install unzip
-                unzip validator_keys.zip
+                unzip -o validator_keys.zip
 
                 mkdir /home/ec2-user/password
 
