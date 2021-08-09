@@ -23,8 +23,11 @@ function validate_password() {
                 cd $Home
                 
                 docker rm validator
+                sudo chmod 700 Eth2
                 sudo docker run -it -v $HOME/Eth2Validators/prysm-wallet-v2:/wallet -v /home/ec2-user/password:/password --network="host" gcr.io/prysmaticlabs/prysm/validator:v1.0.0-beta.3 wallet create --wallet-dir=/wallet --accept-terms-of-use --wallet-password-file=/password/pass.txt
+                sudo chmod 700 Eth2
                 sudo docker run -it -v $HOME/validator_keys:/keys -v $HOME/Eth2Validators/prysm-wallet-v2:/wallet -v $HOME/Eth2:/validatorDB -v /home/ec2-user/password:/password --name validator gcr.io/prysmaticlabs/prysm/validator:v1.0.0-beta.3 --datadir=/validatorDB accounts import --keys-dir=/keys --wallet-dir=/wallet --accept-terms-of-use --wallet-password-file=/password/pass.txt
+                sudo chmod 700 Eth2
                 docker rm validator
                 return
             else
