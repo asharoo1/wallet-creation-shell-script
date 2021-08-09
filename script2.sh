@@ -10,8 +10,8 @@ function validate_password() {
         
             if [[ $walletpassword =~ ['!@#$%^&*()_+'] ]]; then
                 
-                sudo yum install nano
-                sudo yum install unzip
+                sudo yum install nano -y
+                sudo yum install unzip -y
                 unzip -o validator_keys.zip
 
                 mkdir /home/ec2-user/password
