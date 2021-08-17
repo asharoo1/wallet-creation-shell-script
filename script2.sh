@@ -4,7 +4,7 @@ function validate_password() {
     
     while true; do
         
-        echo "Set the password for Wallet": "
+        echo "Set the password for Wallet: "
         read -s walletpassword
         if [[ ${#walletpassword} -ge 8 && "$walletpassword" == *[A-Z]* && "$walletpassword" == *[a-z]* && "$walletpassword" == *[0-9]* ]]; then
         
