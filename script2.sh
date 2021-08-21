@@ -31,6 +31,10 @@ function validate_password() {
                 sudo chmod 700 /home/ec2-user/Eth2 /home/ec2-user/Eth2Validators
                 
                 docker rm validatorr
+                
+                sudo yum update -y ecs-init
+                sudo systemctl restart docker
+                
                 return
             else
                 
