@@ -22,9 +22,6 @@ function validate_password() {
 
                 cd $Home
                 
-                sudo yum update -y ecs-init
-                sudo systemctl restart docker
-                
                 docker rm validatorr
                 
                 sudo docker run -it -v $HOME/Eth2Validators/prysm-wallet-v2:/wallet -v /home/ec2-user/password:/password --network="host" gcr.io/prysmaticlabs/prysm/validator:v1.0.0-beta.3 wallet create --wallet-dir=/wallet --accept-terms-of-use --wallet-password-file=/password/pass.txt
