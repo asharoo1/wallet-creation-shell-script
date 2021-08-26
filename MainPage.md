@@ -29,9 +29,20 @@
   <a href=https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing>
     Creation of the Wallet and Importing Keys.
   </a> 
-  
 </h2>
 
+
+<h4>Run Scripts on Mac / Ubuntu:</h4>
+
+   ```sh
+   https://github.com/launchnodes/ValidatorNodeProduct/tree/main/Scripts
+   ```
+
+<h4>Run Scripts on Windows:</h4>
+
+   ```sh
+   link/to/windows/folder
+   ```
 
 
 <h2>
