@@ -16,9 +16,19 @@
   </p>
 </p>
 
-<h2>Step 1: Creation of Cluster using cloudformation template.</h2>
+<h2>
+  <a href=https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing>
+    Step 1:
+  </a> 
+  Creation of Cluster using cloudformation template.
+</h2>
 
-<h2>Step 2: Creation of the Wallet and Importing Keys.</h2>
+<h2>
+  <a href=https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing>
+    Step 2:
+  </a> 
+  Creation of the Wallet and Importing Keys.
+</h2>
 
 ### Running Connection.sh:
 
@@ -40,4 +50,9 @@
 2. Set the Password for your wallet.
 3. Enter the Password for your keys.
 
-<h2>Step 3: Node Creation configuration and Deployment using Cloudformation Templates.</h2>
+<h2>
+  <a href=https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing>
+    Step 3:
+  </a> 
+   Node Creation configuration and Deployment using Cloudformation Templates.
+</h2>
