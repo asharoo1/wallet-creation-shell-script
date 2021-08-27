@@ -27,7 +27,7 @@
 </h3>
 <h4>Running Connection.sh:</h4>
 
-1. Open your terminal and run the following command to run the script 1:
+1. Open your terminal [💻](#-terminal-) and run the following command to run the script 1:
    ```sh
    bash <(curl -s https://raw.githubusercontent.com/launchnodes/ValidatorNodeProduct/main/Scripts/Connection.sh)
    ```
@@ -41,7 +41,7 @@
 **Note:** `Steps to find public IPv4 and external DNS hostname.`
 
 
-  <ol type="1">
+  <ol type="A">
     <li>Go to the stack you have created(“cluster-creation-stack”)</li>
     <li>In the output section you’ll find the IPv4 and external DNS hostname, as mentioned above.</li>
   </ol>
@@ -81,7 +81,7 @@
 **Note:** `Steps to find public IPv4 and external DNS hostname.`
 
 
-<ol type="1">
+<ol type="A">
    <li>Go to the stack you have created(“cluster-creation-stack”)</li>
    <li>In the output section you’ll find the IPv4 and external DNS hostname, as mentioned above.</li>
 </ol>
