@@ -22,7 +22,7 @@
 
 ## Step 3: [Node Creation configuration and Deployment using Cloudformation Templates.](https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing)
 
- **`To see the video reference of below instructions please visit this `** [here](https://drive.google.com/file/d/1CaLbWgPudVTfuDvMQ2vlcuqtj9wtrVNP/view?usp=sharing)
+ **`To see the video reference of below instructions please visit`** [here](https://drive.google.com/file/d/1CaLbWgPudVTfuDvMQ2vlcuqtj9wtrVNP/view?usp=sharing)
 
 1. Sign in to the AWS Cloudformation 
 2. In the navigation pane, choose Stack and then choose Create Stack.	
