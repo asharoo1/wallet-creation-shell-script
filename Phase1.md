@@ -44,5 +44,5 @@
 10. Click on Create Stack.
 
 
-**Note:** **`After successfully completing the above instructions, you can now move on to the` [Creation of the Wallet and Importing Keys](https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing)`**
+**Note:** **`After successfully completing the above instructions, you can now move on to the` [Creation of the Wallet and Importing Keys.](https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing)**
 
