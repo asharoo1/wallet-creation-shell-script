@@ -18,6 +18,7 @@
 
  **Note**: **`Before performing the steps given below, make sure you have generated the Key-Pairs.`**
  ### Key-Pair Generation:
+  **`To see the video reference of aws key creation follow our video guide `** [here](https://drive.google.com/file/d/1ClKlq-cSoOUiIxgI02QzHpZbxZTPup-_/view?usp=sharing)
 1. Go to aws console https://aws.amazon.com/console/ and search ec2 in the search-bar and click on "EC2".
 2. Find "Key Pairs" under "Network and Security" from the side menu and click on that.
 3. Click on "Create key pair".
@@ -27,7 +28,7 @@
 
 ## Step 1: [Creation of Cluster using Cloudformation Template.](https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing)
 
-
+ **`To see the video reference of below instructions please visit this `** [here](https://drive.google.com/file/d/1T-xaN-6cswnH1Sh3Jf-X_fzZxUGNx7dF/view?usp=sharing)
 
 1. Sign in to the AWS Console, In All Services, choose CloudFormation.
 2. In the navigation pane, choose Stack and then choose Create Stack.
