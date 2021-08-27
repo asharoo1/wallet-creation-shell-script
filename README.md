@@ -27,7 +27,7 @@
 </h3>
 <h4>Running Connection.sh:</h4>
 
-**`To see the video reference of below instructions please visit this `** [here](https://drive.google.com/file/d/18NgKzy5ycjMOOjSfQDb9UeRLbj3BsYpg/view?usp=sharing)
+**`To see the video reference of below instructions please visit`** [here](https://drive.google.com/file/d/18NgKzy5ycjMOOjSfQDb9UeRLbj3BsYpg/view?usp=sharing)
 
 1. Open your terminal [💻](#-terminal-) and run the following command to run the script 1:
    ```sh
@@ -67,7 +67,7 @@
   For Windows Users
 </h3>
 
-**`To see the video reference of below instructions please visit this `** [here](https://drive.google.com/file/d/1yQ_zfZdl8OH2C4OUDt3XWnnA9-EHoqeC/view?usp=sharing)
+**`To see the video reference of below instructions please visit`** [here](https://drive.google.com/file/d/1yQ_zfZdl8OH2C4OUDt3XWnnA9-EHoqeC/view?usp=sharing)
 <h4>Running Connection.bat:</h4>
 
 1. Open your Windows Powershell terminal, enter “&” and then Drag and drop the Connection.bat file into the terminal and press enter.
