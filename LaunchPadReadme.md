@@ -25,7 +25,7 @@
 
 
 
-## [Deposit Mainnet Ethereum From Launchpad](https://launchpad.ethereum.org/)
+## Deposit Mainnet Ethereum From Launchpad
 
 
 1. Visit [Launchpad](https://launchpad.ethereum.org/).
