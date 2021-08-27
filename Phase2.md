@@ -16,7 +16,7 @@
   </p>
 </p>
 
- **Note**: Before you perform Step 3 make sure you have followed and completed the<br />
+**Note**: Before you perform Step 3 make sure you have followed and completed the<br />
 [Step 1: Creation of Cluster using Cloudformation Template.](https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing)<br/>
 [Step 2: Creation of the Wallet and Importing Keys.](https://github.com/launchnodes/ValidatorNodeProduct/tree/main/Scripts)
 
@@ -43,4 +43,4 @@
 
 
 
-Congratulations your node/s is now set up in AWS your Ethereum has been deposited and you will be ready to stake after your validator is activated. There is a queue and this may take a few days. You can check your status in the queue here.
+`Congratulations your node/s is now set up in AWS your Ethereum has been deposited and you will be ready to stake after your validator is activated. There is a queue and this may take a few days. You can check your status in the queue here.`
