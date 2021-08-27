@@ -69,7 +69,7 @@
 
 1. Open your Windows Powershell terminal, enter “&” and then Drag and drop the Connection.bat file into the terminal and press enter.
    ```sh
-   path/to/Connection.bat
+   https://raw.githubusercontent.com/launchnodes/ValidatorNodeProduct/main/Scripts/WindowsScript.bat
    ```
 2. In the “Enter .pem file path”,  Drag and drop the .pem file into the terminal and press enter.
 3. In the “Enter the Validator key zip file path”, and Drag and drop the validator_keys.zip file into the terminal and press enter.
