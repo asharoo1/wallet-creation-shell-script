@@ -16,21 +16,11 @@
   </p>
 </p>
 
-<h6>
-  Note: Before you perform this step make sure you have followed and completed the 
-  <a href=https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing>
-    Step 1: Creation of Cluster using Cloudformation Template.
-  </a>
- </h6>
+ **Note**: Before you perform this step make sure you have followed and completed the [Step 1: Creation of Cluster using Cloudformation Template.](https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing)
 
 
-<h2>
-  Step 2:
-  <a href=https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing>
-    Creation of the Wallet and Importing Keys.
-  </a> 
-  
-</h2>
+## Step 2: [Creation of the Wallet and Importing Keys.](https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing)
+
 
 <h3 align="center">
   For Mac / Ubuntu Users
@@ -48,9 +38,8 @@
    ec2-user@ec2-xxx-x-xxx-xx.compute-1.amazonaws.com
    ```
 
-<h5>
-  Note: Steps to find public IPv4 and external DNS hostname.
- </h5>
+**Note:** Steps to find public IPv4 and external DNS hostname.
+
 
   <ol type="1">
     <li>Go to the stack you have created(“cluster-creation-stack”)</li>
@@ -68,9 +57,8 @@
 2. Set the Password for your wallet.
 3. Enter the Password for your keys.
 
-<h5>
-  Note: If something goes wrong while creating your wallet and importing keys repeat the above steps.
- </h5>
+**Note:** If something goes wrong while creating your wallet and importing keys repeat the above steps.
+
  Now, Your wallet has been created and the keys have been imported to it.
 
 <h3 align="center">
@@ -90,18 +78,16 @@
    ec2-user@ec2-xxx-x-xxx-xx.compute-1.amazonaws.com
    ```
    
-<h5>
-  Note: Steps to find public IPv4 and external DNS hostname.
-</h5>
+**Note:** Steps to find public IPv4 and external DNS hostname.
+
 
 <ol type="1">
    <li>Go to the stack you have created(“cluster-creation-stack”)</li>
    <li>In the output section you’ll find the IPv4 and external DNS hostname, as mentioned above.</li>
 </ol>
 
-<h5>
-  Note: If you get <a href="https://drive.google.com/file/d/1teXPhT2heZAUqL1edwNos9KPP4gZ12em/view?usp=sharing">this error</a> follow these instructions:
-</h5>
+**Note:** If you get [this error](https://drive.google.com/file/d/1teXPhT2heZAUqL1edwNos9KPP4gZ12em/view?usp=sharing) follow these instructions:
+
 
 <ol type="1">
    <li>Right click on your .pem file, go to Properties, Security.</li>
@@ -128,15 +114,10 @@
 2. Set the Password for your wallet.
 3. Enter the Password for your keys.
 
-<h5>
-  Note: If something goes wrong while creating your wallet and importing keys repeat the above steps.
- </h5>
+
+**Note:** If something goes wrong while creating your wallet and importing keys repeat the above steps.
+
  Now, Your wallet has been created and the keys have been imported to it.
  
-<h2>
-  Step 3:
-  <a href=https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing>
-    Node Creation configuration and Deployment using Cloudformation Templates.
-  </a> 
-   
-</h2>
+## Step 3: [Node Creation configuration and Deployment using Cloudformation Templates.](https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing)
+
