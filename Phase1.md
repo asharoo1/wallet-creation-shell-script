@@ -16,7 +16,7 @@
   </p>
 </p>
 
- **Note**: `Before performing the steps given below, make sure you have generated the Key-Pairs.`
+ **Note**: **`Before performing the steps given below, make sure you have generated the Key-Pairs.`**
  ### Key-Pair Generation:
 1. Go to aws console https://aws.amazon.com/console/ and search ec2 in the search-bar and click on "EC2".
 2. Find "Key Pairs" under "Network and Security" from the side menu and click on that.
@@ -36,7 +36,7 @@
 5. In the Specify Stack Details, enter the Stack name as “cluster-creation-stack” or your desired stack name.
 6. In the Parameters,
   - In the IAMUserPassword, set the password for your IAM User.<br />
-    **Note:** `Passwords must have at least 8 characters, at least 1 alphabetic character, 1 unicode symbol, and 1 number. Eg: Paas@321456`
+    **Note:** **`Passwords must have at least 8 characters, at least 1 alphabetic character, 1 unicode symbol, and 1 number. Eg: Paas@321456`**
   - In the KeyName, select the existing key pair from existing keys.
 7. Click on Next.
 8. In the Configure stack options, click on Next.
@@ -44,4 +44,5 @@
 10. Click on Create Stack.
 
 
-**Note:** `You can only create a wallet when you have successfully created Cluster following Step 1.`
+**Note:** **`After successfully completing the above instructions, you can now move on to the` [Creation of the Wallet and Importing Keys](https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing)`**
+
