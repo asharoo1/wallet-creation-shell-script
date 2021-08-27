@@ -17,28 +17,11 @@
 </p>
 
 ## Step 1: [Creation of Cluster using cloudformation template.](https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing)
-<!-- <h2>
-  Step 1:
-  <a href=https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing>
-    Creation of Cluster using cloudformation template.
-  </a> 
-  
-</h2> -->
+
 
 ## Step 3: [Creation of the Wallet and Importing Keys.](https://github.com/launchnodes/ValidatorNodeProduct/tree/main/Scripts)
-<!-- <h2>
-  Step 2:
-  <a href=https://github.com/launchnodes/ValidatorNodeProduct/tree/main/Scripts>
-    Creation of the Wallet and Importing Keys.
-  </a> 
-</h2> -->
+
 
 ## Step 3: [Node Creation configuration and Deployment using Cloudformation Templates.](https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing)
 
-<!-- <h2>
-  Step 3:
-  <a href=https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing>
-    Node Creation configuration and Deployment using Cloudformation Templates.
-  </a> 
-   
-</h2> -->
+
