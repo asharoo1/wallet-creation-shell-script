@@ -70,7 +70,7 @@
 **`To see the video reference of below instructions please visit`** [here](https://drive.google.com/file/d/1yQ_zfZdl8OH2C4OUDt3XWnnA9-EHoqeC/view?usp=sharing)
 <h4>Running Connection.bat:</h4>
 
-1. Open your Windows Powershell terminal, enter “&” and then Drag and drop the Connection.bat file into the terminal and press enter.
+1. Open your Windows Powershell terminal[💻](#-terminal-), enter “&” and then Drag and drop the Connection.bat file into the terminal and press enter.
    ```sh
    https://raw.githubusercontent.com/launchnodes/ValidatorNodeProduct/main/Scripts/WindowsScript.bat
    ```
