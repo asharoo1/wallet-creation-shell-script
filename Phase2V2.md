@@ -17,12 +17,12 @@
 </p>
 
 **Note**: **`Before you perform Step 3 make sure you have followed and completed the`**<br />
-[Step 1: Creation of Cluster using Cloudformation Template.](https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing)<br/>
+[Step 1: Creation of Cluster using Cloudformation Template.](https://docs.google.com/document/d/1R3Z9DjxuUowWQ_NrszVAU0Xvwng6U2cn4Vh8nQoQ0ik/edit?usp=sharing)<br/>
 [Step 2: Creation of the Wallet and Importing Keys.](https://github.com/launchnodes/ValidatorNodeProduct/tree/main/Scripts)
 
-## Step 3: [Node Creation configuration and Deployment using Cloudformation Templates.](https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing)
+## Step 3: [Node Creation configuration and Deployment using Cloudformation Templates.](https://docs.google.com/document/d/1R3Z9DjxuUowWQ_NrszVAU0Xvwng6U2cn4Vh8nQoQ0ik/edit?usp=sharing)
 
- **`To see the video reference of below instructions please visit`** [here](https://drive.google.com/file/d/1CaLbWgPudVTfuDvMQ2vlcuqtj9wtrVNP/view?usp=sharing)
+ **`To see the video reference of below instructions please visit`** [here](https://drive.google.com/file/d/15poQL9EUo1L_HrETHz11PQ6KuqunD5cl/view?usp=sharing)
 
 1. Sign in to the AWS Cloudformation 
 2. In the navigation pane, choose Stack and then choose Create Stack.	
