@@ -91,6 +91,7 @@
 
 **Note:** **`If you get `**[this error](https://drive.google.com/file/d/1teXPhT2heZAUqL1edwNos9KPP4gZ12em/view?usp=sharing) **`follow these instructions:`**
 
+**`To see the video reference of below instructions please visit`** [here](https://drive.google.com/file/d/19Vz1em7vnDN0a_JDThCG77rHeL07ajkn/view?usp=sharing)
 
 <ol type="1">
    <li>Right click on your .pem file, go to Properties, Security.</li>
