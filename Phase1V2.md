@@ -26,9 +26,9 @@
 5. Select File format option to "pem".
 6. Click on "Create key pair" and download the pem file.
 
-## Step 1: [Creation of Cluster using Cloudformation Template.](https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing)
+## Step 1: [Creation of Cluster using Cloudformation Template.](https://docs.google.com/document/d/1R3Z9DjxuUowWQ_NrszVAU0Xvwng6U2cn4Vh8nQoQ0ik/edit?usp=sharing)
 
- **`To see the video reference of below instructions please visit`** [here](https://drive.google.com)
+ **`To see the video reference of below instructions please visit`** [here](https://drive.google.com/file/d/1zkEZeAQDsV4E_TO6A0RsOJiO8u3fGKf9/view)
 
 1. Sign in to the AWS Console, In All Services, choose CloudFormation.
 2. In the navigation pane, choose Stack and then choose Create Stack.
@@ -46,5 +46,5 @@
 10. Click on Create Stack.
 
 
-**Note:** **`After successfully completing the above instructions, you can now move on to the` [Creation of the Wallet and Importing Keys.](https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing)**
+**Note:** **`After successfully completing the above instructions, you can now move on to the` [Creation of the Wallet and Importing Keys.](https://docs.google.com/document/d/1R3Z9DjxuUowWQ_NrszVAU0Xvwng6U2cn4Vh8nQoQ0ik/edit?usp=sharing)**
 
