@@ -33,7 +33,7 @@
 1. Sign in to the AWS Console, In All Services, choose CloudFormation.
 2. In the navigation pane, choose Stack and then choose Create Stack.
 3. Under Prerequisite-Prepare Template, choose Template is ready.
-4. Under Specify Template, choose the Template Source as Amazon S3 URL and enter this URL and click on next.
+4. Under Specify Template, choose the Template Source as Amazon S3 URL and enter [this URL](https://cfmainnet.s3.eu-west-2.amazonaws.com/MainnetPhase1-v1.json) and click on next.
 5. In the Specify Stack Details, enter the Stack name as “cluster-creation-stack” or your desired stack name.
 6. In the Parameters,
   - In the IAMUserPassword, set the password for your IAM User.<br />
