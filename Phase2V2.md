@@ -28,7 +28,7 @@
 2. In the navigation pane, choose Stack and then choose Create Stack.	
 3. In the Prerequisite-Prepare Template, choose Template is ready.
 4. In the Specify Template, choose the Template Source as Amazon S3 URL and enter [this URL](https://cfmainnet.s3.eu-west-2.amazonaws.com/MainnetPhase2-v2.json) and click on next.
-5. In the Specify Stack Details, enter the Stack name “service-creation-stack” or as your desired stack name.
+5. In the Specify Stack Details, enter the Stack name as “service-creation-stack-2” or your desired stack name.
 6. In the Parameters:
 
   - In the ClusterName, enter the Cluster Name as the same cluster name (Validator-Cluster-2) that you have set during “cluster-creation-stack-2” or the cluster name to which you want to connect.
