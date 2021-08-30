@@ -27,7 +27,10 @@
 1. Sign in to the AWS Cloudformation 
 2. In the navigation pane, choose Stack and then choose Create Stack.	
 3. In the Prerequisite-Prepare Template, choose Template is ready.
-4. In the Specify Template, choose the Template Source as Amazon S3 URL and enter [this URL](https://cfmainnet.s3.eu-west-2.amazonaws.com/MainnetPhase2-v1.json) and click on next.
+4. Under Specify Template, choose the Template Source as Amazon S3 URL and enter the URL given below and click on next.
+  ```sh
+   https://cfmainnet.s3.eu-west-2.amazonaws.com/MainnetPhase2-v1.json
+   ```
 5. In the Specify Stack Details, enter the Stack name “service-creation-stack” or as your desired stack name.
 6. In the Parameters:
 
