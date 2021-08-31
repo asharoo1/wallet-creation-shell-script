@@ -16,12 +16,14 @@
   </p>
 </p>
 
-## Step 1: [Creation of Cluster using Cloudformation template.](https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing)
+**Note**: **`If you are an existing user and already have a node running, Please follow this`** [guide]() **`to add one more validator node.`**
+
+## Step 1: [Creation of Cluster using Cloudformation template.](https://github.com/launchnodes/ValidatorNodeProduct/blob/main/Docs/ClusterCreationReadme.md)
 
 
-## Step 2: [Creation of the Wallet and Importing Keys.](https://github.com/launchnodes/ValidatorNodeProduct/tree/main/Scripts)
+## Step 2: [Deposit Mainnet Ethereum From Launchpad.](https://github.com/launchnodes/ValidatorNodeProduct/blob/main/Docs/DepositEthereumReadme.md)
 
-
-## Step 3: [Node Creation configuration and Deployment using Cloudformation Templates.](https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing)
+## Step 3: [Creation of the Wallet and Importing Keys.](https://github.com/launchnodes/ValidatorNodeProduct/blob/main/Scripts/README.md)
+## Step 4: [Service Creation configuration and Deployment using Cloudformation Templates.](https://github.com/launchnodes/ValidatorNodeProduct/blob/main/Docs/NodeCreationReadme.md)
 
 
