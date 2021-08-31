@@ -122,7 +122,7 @@
 
  `Now, Your wallet has been created and the keys have been imported to it.`
  
- `After Succesfully creating the wallet and importing keys you can now move on to the` [Node Creation configuration and Deployment using Cloudformation Templates.](https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing)
+ `After Succesfully creating the wallet and importing keys you can now move on to the` [Service Creation configuration and Deployment using Cloudformation Templates.](https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing)
  
 
 
