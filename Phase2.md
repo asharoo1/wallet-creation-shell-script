@@ -21,7 +21,7 @@
 [Step 2: Deposit Mainnet Ethereum From Launchpad.](https://github.com/launchnodes/ValidatorNodeProduct/blob/main/Docs/DepositEthereumReadme.md)<br/>
 [Step 3: Creation of the Wallet and Importing Keys.](https://github.com/launchnodes/ValidatorNodeProduct/blob/main/Scripts/README.md)
 
-## Step 4: Node Creation configuration and Deployment using Cloudformation Templates.
+## Step 4: Service Creation configuration and Deployment using Cloudformation Templates.
 
  **`To see the video reference of below instructions please visit`** [here](https://drive.google.com/file/d/1CaLbWgPudVTfuDvMQ2vlcuqtj9wtrVNP/view?usp=sharing)
 
