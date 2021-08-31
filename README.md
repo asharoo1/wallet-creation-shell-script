@@ -21,7 +21,7 @@
 [Step 2: Deposit Mainnet Ethereum From Launchpad.](https://github.com/launchnodes/ValidatorNodeProduct/blob/main/Docs/DepositEthereumReadme.md)<br/>
 
 
-## Step 2: Creation of the Wallet and Importing Keys.
+## Step 3: Creation of the Wallet and Importing Keys.
 
 <h3 align="center">
   For Mac / Ubuntu Users
