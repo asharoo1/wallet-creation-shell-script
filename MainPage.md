@@ -49,9 +49,9 @@
 ## Step 1: [Creation of Cluster using Cloudformation template.](https://github.com/launchnodes/ValidatorNodeProduct/blob/main/Docs/ExistingUser_ClusterCreationReadme.md)
 
 
-## Step 2: [Deposit Mainnet Ethereum from Launchpad.](https://github.com/asharoo1/wallet-creation-shell-script/blob/main/ExistingLaunchPadReadme.md)
+## Step 2: [Deposit Mainnet Ethereum from Launchpad.](https://github.com/launchnodes/ValidatorNodeProduct/blob/main/Docs/DepositEthereumReadme.md)
 
-## Step 3: [Creation of the Wallet and Importing Keys.](https://github.com/asharoo1/wallet-creation-shell-script/blob/main/ExistingWalletCreation.md)
+## Step 3: [Creation of the Wallet and Importing Keys.](https://github.com/launchnodes/ValidatorNodeProduct/blob/main/Scripts/README.md)
 ## Step 4: [Service Creation configuration and Deployment using Cloudformation Templates.](https://github.com/launchnodes/ValidatorNodeProduct/blob/main/Docs/ExistingUser_NodeCreationReadme.md)
 
 
