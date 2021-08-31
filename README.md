@@ -16,7 +16,9 @@
   </p>
 </p>
 
- **Note**: **`Before you perform this step make sure you have followed and completed the` [Creation of Cluster using Cloudformation Template.](https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing)**
+ **Note**: **`Before you perform this step make sure you have followed and completed the`** <br/>
+[Step 1: Creation of Cluster using Cloudformation Template.](https://github.com/launchnodes/ValidatorNodeProduct/blob/main/Docs/ClusterCreationReadme.md)<br/>
+[Step 2: Deposit Mainnet Ethereum From Launchpad.](https://github.com/launchnodes/ValidatorNodeProduct/blob/main/Docs/DepositEthereumReadme.md)<br/>
 
 
 ## Step 2: Creation of the Wallet and Importing Keys.
@@ -122,7 +124,7 @@
 
  `Now, Your wallet has been created and the keys have been imported to it.`
  
- `After Succesfully creating the wallet and importing keys you can now move on to the` [Service Creation configuration and Deployment using Cloudformation Templates.](https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing)
+ `After Succesfully creating the wallet and importing keys you can now move on to the` [Service Creation configuration and Deployment using Cloudformation Templates.](https://github.com/launchnodes/ValidatorNodeProduct/blob/main/Docs/NodeCreationReadme.md)
  
 
 
