@@ -124,7 +124,5 @@
 
  `Now, Your wallet has been created and the keys have been imported to it.`
  
- `After Succesfully creating the wallet and importing keys you can now move on to the` [Service Creation configuration and Deployment using Cloudformation Templates.](https://github.com/launchnodes/ValidatorNodeProduct/blob/main/Docs/NodeCreationReadme.md)
- 
 
 
