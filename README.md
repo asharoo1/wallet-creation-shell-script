@@ -19,8 +19,7 @@
  **Note**: **`Before you perform this step make sure you have followed and completed the` [Creation of Cluster using Cloudformation Template.](https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing)**
 
 
-## Step 2: [Creation of the Wallet and Importing Keys.](https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing)
-
+## Step 2: Creation of the Wallet and Importing Keys.
 
 <h3 align="center">
   For Mac / Ubuntu Users
