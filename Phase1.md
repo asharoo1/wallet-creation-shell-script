@@ -16,6 +16,8 @@
   </p>
 </p>
 
+**Note**: **`If you are an existing user and already have a node running, Please follow this`** [guide]() **`to add one more validator node.`**
+
  **Note**: **`Before performing the steps given below, make sure you have generated the Key-Pairs.`**
  ### Key-Pair Generation:
   **`To see the video reference of aws key creation follow our video guide`** [here](https://drive.google.com/file/d/1ClKlq-cSoOUiIxgI02QzHpZbxZTPup-_/view?usp=sharing)
@@ -48,5 +50,5 @@
 10. Click on Create Stack.
 
 
-**Note:** **`After successfully completing the above instructions, you can now move on to the` [Creation of the Wallet and Importing Keys.](https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing)**
+**Note:** **`After successfully completing the above instructions, you can now move on to` [Deposit Mainnet Ethereum From Launchpad.](https://github.com/launchnodes/ValidatorNodeProduct/blob/main/Docs/DepositEthereumReadme.md)**
 
