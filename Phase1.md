@@ -16,7 +16,7 @@
   </p>
 </p>
 
-**Note**: **`If you are an existing user and already have a node running, Please follow this`** [guide]() **`to add one more validator node.`**
+**Note**: **`If you are an existing user and already have a node running, Please follow this`** [guide](https://github.com/launchnodes/ValidatorNodeProduct/blob/main/Docs/ExistingUser_ClusterCreationReadme.md) **`to add one more validator node.`**
 
  **Note**: **`Before performing the steps given below, make sure you have generated the Key-Pairs.`**
  ### Key-Pair Generation:
@@ -28,7 +28,7 @@
 5. Select File format option to "pem".
 6. Click on "Create key pair" and download the pem file.
 
-## Step 1: [Creation of Cluster using Cloudformation Template.](https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing)
+## Step 1: Creation of Cluster using Cloudformation Template.
 
  **`To see the video reference of below instructions please visit`** [here](https://drive.google.com/file/d/1T-xaN-6cswnH1Sh3Jf-X_fzZxUGNx7dF/view?usp=sharing)
 
