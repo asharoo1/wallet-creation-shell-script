@@ -51,4 +51,3 @@
 16. If your transaction is successful you are in a queue for validator assignment. You will be assigned as a validator soon. 
 
 
-**Note:** **`After successfully completing the above instructions, you can now move on to` [Creation of the Wallet and Importing Keys.](https://github.com/launchnodes/ValidatorNodeProduct/blob/main/Scripts/README.md)**
