@@ -71,13 +71,14 @@
 **`To see the video reference of below instructions please visit`** [here](https://drive.google.com/file/d/1yQ_zfZdl8OH2C4OUDt3XWnnA9-EHoqeC/view?usp=sharing)
 <h4>Running Connection.bat:</h4>
 
-1. Open your Windows Powershell terminal[💻](#-terminal-), enter “&” and then Drag and drop the Connection.bat file into the terminal and press enter.
-   ```sh
-   https://raw.githubusercontent.com/launchnodes/ValidatorNodeProduct/main/Scripts/WindowsScript.bat
-   ```
-2. In the “Enter .pem file path”,  Drag and drop the .pem file into the terminal and press enter.
-3. In the “Enter the Validator key zip file path”, and Drag and drop the validator_keys.zip file into the terminal and press enter.
-4. In the “Enter AWS public IPv4 and external DNS hostname: ”, enter your public IPv4 and external DNS hostname. For example,
+1. Download and unzip the WindowsScript.bat.zip folder, you'll get WindowsScript.bat file.
+  ```sh
+  https://downgit.github.io/#/home?url=https://github.com/launchnodes/ValidatorNodeProduct/blob/main/Scripts/WindowsScript.bat
+  ```
+2. Open your Windows Powershell terminal[💻](#-terminal-), enter “&” and then Drag and drop the WindowsScript.bat file into the terminal and press enter.
+3. In the “Enter .pem file path”,  Drag and drop the .pem file into the terminal and press enter.
+4. In the “Enter the Validator key zip file path”, and Drag and drop the validator_keys.zip file into the terminal and press enter.
+5. In the “Enter AWS public IPv4 and external DNS hostname: ”, enter your public IPv4 and external DNS hostname. For example,
    ```sh
    ec2-user@ec2-xxx-x-xxx-xx.compute-1.amazonaws.com
    ```
