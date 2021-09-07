@@ -14,7 +14,7 @@
   </p>
 </p>
 
-**Note**: **`Before you perform Step 2 make sure you have followed and completed the`**<br />
+**Note**: **`Before you perform Step 2 make sure you have followed and completed the`**
 [Step 1: Creation of Cluster using Cloudformation Template.](https://github.com/)<br/>
 
 ## Step 2: Service Creation configuration and Deployment using Cloudformation Templates.
