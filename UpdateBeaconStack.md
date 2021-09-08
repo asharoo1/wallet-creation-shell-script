@@ -8,7 +8,7 @@
   <h3 align="center">AWS Beacon Product</h3>
 
   <p align="center">
-    Instruction for deploying Beacon Node
+    Instruction for Updating Beacon Node
     <br />
    <br />
     
